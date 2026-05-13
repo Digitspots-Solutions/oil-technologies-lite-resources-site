@@ -1,0 +1,49 @@
+{
+  "businessName": "Oil Technologies & Lite Resources",
+  "industry": "Manufacturing",
+  "tone": "professional and confident",
+  "tagline": "Engineering Excellence in Manufacturing Solutions",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Oil Technologies & Lite Resources - Your Trusted Manufacturing Partner in Nigeria. We deliver precision-engineered solutions and quality manufacturing services across Rivers State and beyond. From concept to completion, we bring industrial excellence to every project.",
+      "imagePrompt": "Modern industrial manufacturing facility in Nigeria, high-tech machinery and equipment in a clean professional workspace, bright overhead lighting, workers in safety gear inspecting quality products, Nigerian industrial setting with blue and silver tones, photorealistic, professional photography",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Oil Technologies & Lite Resources is a dynamic manufacturing company based in Obio/Akpor, Rivers State. We specialize in delivering innovative manufacturing solutions tailored to meet the diverse needs of Nigerian businesses and industries. Our commitment to quality, precision, and timely delivery has positioned us as a reliable partner for clients seeking excellence in manufacturing. Operating with agility and efficiency, we combine technical expertise with deep understanding of local market requirements to deliver products that exceed expectations.",
+      "imagePrompt": "Professional Nigerian manufacturing team in modern workshop, diverse group of engineers and technicians collaborating around industrial equipment, safety helmets and gear, bright natural lighting through large windows, machinery and tools visible in background, photorealistic, corporate photography style",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Custom Manufacturing Solutions - Precision fabrication and manufacturing tailored to your specifications\n\nProduct Development - From prototype to production, we bring your ideas to life with technical precision\n\nQuality Assurance - Rigorous testing and inspection protocols ensure every product meets international standards\n\nIndustrial Consulting - Expert guidance on manufacturing processes, efficiency optimization, and cost reduction\n\nSupply Chain Management - Reliable sourcing and delivery of materials and finished products across Nigeria",
+      "imagePrompt": "Grid layout of different manufacturing processes: welding sparks flying, precision CNC machining, quality control inspection with measuring instruments, industrial assembly line, packaged finished products, all in professional Nigerian industrial setting, bright lighting, photorealistic detail",
+      "layout": "cards"
+    },
+    {
+      "id": "whychooseus",
+      "name": "Why Choose Us",
+      "copy": "Local Expertise, Global Standards - We understand the Nigerian market while maintaining international quality benchmarks that set us apart.\n\nFlexible & Responsive - Our agile operational model allows us to adapt quickly to your changing needs and tight deadlines.\n\nCost-Effective Solutions - We deliver premium quality manufacturing without the premium price tag, maximizing value for your investment.\n\nTechnical Excellence - Our team combines years of manufacturing experience with cutting-edge techniques and modern equipment.\n\nReliable Partnership - From initial consultation to final delivery and after-sales support, we're committed to your success.",
+      "imagePrompt": "Split view image showing handshake between business professionals in foreground and busy manufacturing floor in background, Nigerian business setting, modern industrial facility, professional workers in safety gear, quality finished products on display, warm professional lighting, photorealistic",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to discuss your manufacturing needs? Oil Technologies & Lite Resources is here to transform your vision into reality. Whether you need custom fabrication, product development, or manufacturing consultation, our team is ready to deliver solutions that work. Contact us today for a free consultation and discover how we can add value to your business. We serve clients across Obio/Akpor, Port Harcourt, Rivers State, and throughout Nigeria.",
+      "imagePrompt": "Modern Nigerian office reception area with comfortable seating, professional business atmosphere, large windows with natural light, industrial manufacturing displays or product samples visible, map of Nigeria on wall, welcoming and professional environment, photorealistic corporate photography",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 806 469 7747",
+    "email": "info@oiltechnologies.com.ng",
+    "address": "Obio/Akpor, Rivers State, Nigeria",
+    "whatsapp": "https://wa.me/2348064697747"
+  }
+}
