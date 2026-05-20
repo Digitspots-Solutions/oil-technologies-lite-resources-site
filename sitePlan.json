@@ -1,48 +1,41 @@
 {
-  "businessName": "Oil Technologies & Lite Resources",
-  "industry": "Manufacturing",
-  "tone": "professional and confident",
-  "tagline": "Engineering Excellence in Manufacturing Solutions",
+  "businessName": "Max Kings HSE Solutions Limited",
+  "industry": "Oil & Gas HSE Services",
+  "tone": "professional, authoritative, safety-focused",
+  "tagline": "Your Trusted Partner in Oil & Gas Health, Safety & Environmental Excellence",
   "sections": [
     {
       "id": "hero",
       "name": "Hero",
-      "copy": "Oil Technologies & Lite Resources - Your Trusted Manufacturing Partner in Nigeria. We deliver precision-engineered solutions and quality manufacturing services across Rivers State and beyond. From concept to completion, we bring industrial excellence to every project.",
-      "imagePrompt": "Modern industrial manufacturing facility in Nigeria, high-tech machinery and equipment in a clean professional workspace, bright overhead lighting, workers in safety gear inspecting quality products, Nigerian industrial setting with blue and silver tones, photorealistic, professional photography",
+      "copy": "Max Kings HSE Solutions Limited - Leading HSE Excellence in Nigeria's Oil & Gas Sector. Comprehensive Health, Safety, and Environmental solutions delivered by certified professionals. Protecting your people, your assets, and the environment across all operational phases.",
+      "imagePrompt": "Photorealistic wide shot of Nigerian offshore oil and gas platform at golden hour, safety helmets and equipment in foreground, workers in high-visibility PPE conducting safety inspection, professional industrial photography, dramatic lighting, emphasis on safety culture and professional excellence",
       "layout": "centered"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "Oil Technologies & Lite Resources is a dynamic manufacturing company based in Obio/Akpor, Rivers State. We specialize in delivering innovative manufacturing solutions tailored to meet the diverse needs of Nigerian businesses and industries. Our commitment to quality, precision, and timely delivery has positioned us as a reliable partner for clients seeking excellence in manufacturing. Operating with agility and efficiency, we combine technical expertise with deep understanding of local market requirements to deliver products that exceed expectations.",
-      "imagePrompt": "Professional Nigerian manufacturing team in modern workshop, diverse group of engineers and technicians collaborating around industrial equipment, safety helmets and gear, bright natural lighting through large windows, machinery and tools visible in background, photorealistic, corporate photography style",
+      "copy": "Max Kings HSE Solutions Limited (also known as Max Kings Energy Safety Co) is a premier HSE services provider dedicated to ensuring operational safety and environmental compliance in Nigeria's oil and gas industry. Led by experienced Field Operations Supervisors with deep industry knowledge, we deliver world-class HSE management systems tailored to the unique challenges of Nigerian energy operations.\n\nOur team brings extensive field experience combined with international safety standards to protect your workforce, optimize operations, and ensure regulatory compliance. From pre-operational safety assessments to ongoing HSE management, we are committed to zero-incident operations across all energy sector activities.",
+      "imagePrompt": "Professional corporate photograph of diverse Nigerian HSE team in branded safety gear standing confidently at an oil field facility, modern safety equipment visible, Nigerian landscape in background, corporate photography style, natural daylight, conveying expertise and professionalism",
       "layout": "split"
     },
     {
       "id": "services",
-      "name": "Our Services",
-      "copy": "Custom Manufacturing Solutions - Precision fabrication and manufacturing tailored to your specifications\n\nProduct Development - From prototype to production, we bring your ideas to life with technical precision\n\nQuality Assurance - Rigorous testing and inspection protocols ensure every product meets international standards\n\nIndustrial Consulting - Expert guidance on manufacturing processes, efficiency optimization, and cost reduction\n\nSupply Chain Management - Reliable sourcing and delivery of materials and finished products across Nigeria",
-      "imagePrompt": "Grid layout of different manufacturing processes: welding sparks flying, precision CNC machining, quality control inspection with measuring instruments, industrial assembly line, packaged finished products, all in professional Nigerian industrial setting, bright lighting, photorealistic detail",
-      "layout": "cards"
-    },
-    {
-      "id": "whychooseus",
-      "name": "Why Choose Us",
-      "copy": "Local Expertise, Global Standards - We understand the Nigerian market while maintaining international quality benchmarks that set us apart.\n\nFlexible & Responsive - Our agile operational model allows us to adapt quickly to your changing needs and tight deadlines.\n\nCost-Effective Solutions - We deliver premium quality manufacturing without the premium price tag, maximizing value for your investment.\n\nTechnical Excellence - Our team combines years of manufacturing experience with cutting-edge techniques and modern equipment.\n\nReliable Partnership - From initial consultation to final delivery and after-sales support, we're committed to your success.",
-      "imagePrompt": "Split view image showing handshake between business professionals in foreground and busy manufacturing floor in background, Nigerian business setting, modern industrial facility, professional workers in safety gear, quality finished products on display, warm professional lighting, photorealistic",
+      "name": "Our HSE Services",
+      "copy": "HSE Management Systems Development | Comprehensive design and implementation of safety management frameworks aligned with Nigerian DPR regulations and international standards (ISO 45001, ISO 14001).\n\nSafety Training & Certification | Specialized HSE training programs including fire safety, confined space entry, permit-to-work systems, and emergency response procedures for oil & gas personnel.\n\nRisk Assessment & Hazard Analysis | Detailed HAZOP, HAZID, and risk evaluation studies for drilling operations, production facilities, and pipeline projects across Nigerian terrain.\n\nEnvironmental Compliance Management | Environmental impact assessments, waste management solutions, and regulatory compliance support for oil & gas operations in Nigeria.\n\nSafety Audits & Inspections | Independent safety audits, equipment inspections, and compliance verification to maintain highest operational standards.\n\nEmergency Response Planning | Development of site-specific emergency response plans, oil spill response procedures, and crisis management protocols.\n\nField Operations Supervision | Experienced field supervision ensuring real-time safety compliance during drilling, completion, and production operations.",
+      "imagePrompt": "Grid layout of professional oil and gas safety scenarios in Nigeria: HSE training classroom with Nigerian workers, safety inspection of industrial equipment, environmental monitoring at facility, emergency response drill, each image photorealistic and showing professional safety practices",
       "layout": "grid"
     },
     {
       "id": "contact",
-      "name": "Get In Touch",
-      "copy": "Ready to discuss your manufacturing needs? Oil Technologies & Lite Resources is here to transform your vision into reality. Whether you need custom fabrication, product development, or manufacturing consultation, our team is ready to deliver solutions that work. Contact us today for a free consultation and discover how we can add value to your business. We serve clients across Obio/Akpor, Port Harcourt, Rivers State, and throughout Nigeria.",
-      "imagePrompt": "Modern Nigerian office reception area with comfortable seating, professional business atmosphere, large windows with natural light, industrial manufacturing displays or product samples visible, map of Nigeria on wall, welcoming and professional environment, photorealistic corporate photography",
+      "name": "Contact Us",
+      "copy": "Ready to elevate your HSE standards? Partner with Max Kings HSE Solutions Limited for reliable, expert safety management.\n\nGet in touch today for a free consultation on your HSE requirements. We serve oil & gas operations across Port Harcourt, Rivers State, and throughout Nigeria.\n\nLocation: Obio/Akpor, Rivers State, Nigeria\nPhone: +234 806 469 7747\nWebsite: www.maxkings.org\n\nWhatsApp us directly for rapid response and immediate assistance with your HSE needs.",
+      "imagePrompt": "Clean professional contact section background: subtle overlay of Nigerian oil and gas infrastructure, soft-focused safety equipment, modern business communication elements, professional blue and orange color scheme, corporate minimal style",
       "layout": "centered"
     }
   ],
   "contact": {
     "phone": "+234 806 469 7747",
-    "email": "info@oiltechnologies.com.ng",
+    "email": "info@maxkings.org",
     "address": "Obio/Akpor, Rivers State, Nigeria",
     "whatsapp": "https://wa.me/2348064697747"
   }
